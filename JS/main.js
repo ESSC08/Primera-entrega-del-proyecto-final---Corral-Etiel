@@ -41,7 +41,7 @@ function agregarProductoAlCarrito(id) {
     }
 }
 
-//function mostrarCarritoActual() {}
+function mostrarCarritoActual() {} 
 
 function mostrarProductosYSeleccionar() {
     let menuAMostrar = "¿Como puedo servirle?\n";
